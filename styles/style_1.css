@@ -1,10 +1,18 @@
 body {
     background-color: gray;
-    color: rgb(109, 109, 109) ;
+    color: rgb(255, 255, 255) ;
     text-align: center;
 }
 
 a {
     font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     text-decoration: none;
+}
+
+#one {
+    font: bolder;
+    font-size: xx-large;
+    font-family: fantasy;
+    font-style: initial;
+    color:blue;
 }
